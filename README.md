@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil! 💜
+
+Meu nome é Gabrielly Alexandre.
+
+- Estou estudando na [Alura](https://www.alura.com.br).
+- Estou desenvolvendo meus conhecimentos na linguagem JavaScript.
+- Utilizo esse espaço como um mural de exposição para organizar todos os meus projetos desenvolvidos.
+
+### Meios de contato📫:
+
+gabriellyfalexandre@gmail.com
 
 
-**gbriellyalx/gbriellyalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![](https://media.tenor.com/q1qrW-OjIVMAAAAM/disney-moana.gif)
